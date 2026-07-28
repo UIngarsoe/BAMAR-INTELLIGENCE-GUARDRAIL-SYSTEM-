@@ -201,12 +201,24 @@ SSISM_WIZAR_ANOMALY_01.json
 
 Citations:
 [1] Basic Syntax https://www.markdownguide.org/basic-syntax/
+
 [2] Markdown style guide | styleguide https://google.github.io/styleguide/docguide/style.html
+
 [3] A guide to writing an effective abstract / selecting keywords ... https://www.cambridge.org/core/services/aop-file-manager/file/577e7dd83ef1d3233901d13d/Cambridge-Core-author-guide-abstracts-and-keywords.pdf
+
 [4] Markdown Best Practices: The Complete Guide to Enhancing ... https://www.tomarkdown.org/guides/markdown-best-practice
+
 [5] Markdown Style Guide - OSG Technology Area https://osg-htc.org/technology/documentation/style-guide/
+
 [6] R Markdown Syntax: Headings & Lists https://carpentry.library.ucsb.edu/R-markdown/03-headings-lists/index.html
-[7] Markdown Heading Syntax - Markdown Documentation https://www.markdownlang.com/basic/headings.html
+
+[7] Markdown Heading Syntax - Markdown Documentation 
+https://www.markdownlang.com/basic/headings.html
+
 [8] GitHub - notslang/markdown-styleguide: Formatting standards for readable & consistent Markdown https://github.com/notslang/markdown-styleguide
+
 [9] Titles and headings https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown?view=powershell-7.6
+
 [10] Article Structure and Formatting https://czasopisma.uksw.edu.pl/index.php/seb/przygotowanie
+
+U Ingar Soe SSISM Sentinel Bamar Enlightenment Journal Executive Editor OSINT Myanmar/Burma Enlightenment Nodes Civil Intelligence Education Specialist MIT Licensed Algorithm July 2026.
