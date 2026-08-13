@@ -63,11 +63,14 @@ This operational checklist guides students through the structured extraction and
 When examining digital footprints spanning multiple years, legacy metadata and identifier persistence form the backbone of analytical verification.
 
 ### A. Identifier Persistence Across Platforms
+
  * Handle & Naming Evolution: Track how public identifiers transform over time. Subjects often reuse structural naming patterns across different platforms even when individual usernames change.
+
  * Public Repository Commits: Examine historical open-source code commits, README file modifications, and contributor histories to establish verified timelines of digital output.
 
 ### B. Technical Metadata Indicators
  * Document Properties: Extract creation timestamps, modification histories, and application signatures from public PDF, text, or spreadsheet files published during the target window.
+
  * Web Asset Fingerprinting: Analyze historical CSS, favicon, or layout markers in archived web snapshots to link disparate public pages to a single origin entity.
 
 
@@ -85,6 +88,7 @@ Students must use the following structured schema to record every finding during
 | Analyst Notes / Gaps | Observations regarding contradictions, missing links, or verification hurdles |
 
 ## 5. Diagnostic Section: Overcoming Common Data Gaps (6-Year Audits)
+
 When auditing a 6-year digital footprint, analysts frequently encounter data degradation, scrubbed records, or structural gaps. Use this diagnostic matrix to resolve them analytically:
 | Symptom / Data Gap | Root Cause | Analytical Remedy |
 |---|---|---|
@@ -133,9 +137,23 @@ When auditing a 6-year digital footprint, analysts frequently encounter data deg
 }
 
 ## Classroom 30 Conclusions: Reality, Responsibility, and the Digital Record
-As we conclude the WAAE-Engine-Wizard-Advanced Analytical Engine Masterclass for Classroom 30, our core doctrine remains anchored in the principle of Reality Before Narrative. True analytical mastery is not merely the accumulation of data points; it is the discipline of applying the Triple Analytical Lens—examining Content, Context, and Cosmetics independently before forming conclusions. By integrating ancient wisdom traditions like Yathābhūta Ñāṇa (seeing reality as it is) with modern open-source intelligence methods, students are trained to strip away emotional framing, partisan noise, and superficial presentation to uncover verifiable truth.
-The reopening of the multi-year archival records—epitomized by the "See You Later" (ဆီးယူလိတ်တား) files dating back to 2020—serves as a vital pedagogical case study in digital permanence and accountability. Over a six-year horizon, public digital footprints, cached screenshots, and unedited archives preserve every declaration, contradiction, and behavioral pattern left across open networks. This masterclass demonstrates to the class of 30 that history is meticulously recorded by the digital ecosystem itself, and that individuals remain entirely accountable for the historical record they author online, regardless of subsequent attempts at revisionism.
-Learning Plan & Future Roadmap: Moving forward, our technical and educational roadmap focuses on institutionalizing decentralized verification engines, refining automated cross-platform timeline mapping, and maintaining strict ethical boundaries. Analysts must remember that every public post, comment, and metadata signature contributes to a permanent ledger. As independent researchers and civil enlightenment nodes, our duty is to uphold evidentiary integrity, reject emotional bias, and navigate the digital landscape with absolute clarity and responsibility.
+
+As we conclude the WAAE-Engine-Wizard-Advanced Analytical Engine Masterclass for Classroom 30, our core doctrine remains anchored in the principle of Reality Before Narrative. 
+
+True analytical mastery is not merely the accumulation of data points; it is the discipline of applying the Triple Analytical Lens—examining Content, Context, and Cosmetics independently before forming conclusions. 
+
+By integrating ancient wisdom traditions like Yathābhūta Ñāṇa (seeing reality as it is) with modern open-source intelligence methods, students are trained to strip away emotional framing, partisan noise, and superficial presentation to uncover verifiable truth.
+The reopening of the multi-year archival records—epitomized by the "See You Later" (ဆီးယူလိတ်တား) files dating back to 2020—serves as a vital pedagogical case study in digital permanence and accountability. 
+
+Over a six-year horizon, public digital footprints, cached screenshots, and unedited archives preserve every declaration, contradiction, and behavioral pattern left across open networks. 
+
+This masterclass demonstrates to the class of 30 that history is meticulously recorded by the digital ecosystem itself, and that individuals remain entirely accountable for the historical record they author online, regardless of subsequent attempts at revisionism.
+
+### Learning Plan & Future Roadmap: Moving forward, our technical and educational roadmap focuses on institutionalizing decentralized verification engines, refining automated cross-platform timeline mapping, and maintaining strict ethical boundaries. 
+
+### Analysts must remember that every public post, comment, and metadata signature contributes to a permanent ledger. 
+
+### As independent researchers and civil enlightenment nodes, our duty is to uphold evidentiary integrity, reject emotional bias, and navigate the digital landscape with absolute clarity and responsibility.
 
 ## Masterclass Classroom 30 Knowledge Block (JSON)
 {
@@ -167,16 +185,27 @@ Learning Plan & Future Roadmap: Moving forward, our technical and educational ro
 
 ## Final Trainer Rituals & Field Doctrine: Wizar Masterclass Series
 
-As trainers operating across the field, our mandate transcends simple technical instruction; we are the architects of analytical discipline and ethical intelligence standards. In the field, a Wizar Trainer does not merely teach tools—they instill the rigor of Reality Before Narrative.
+As trainers operating across the field, our mandate transcends simple technical instruction; we are the architects of analytical discipline and ethical intelligence standards. 
+
+In the field, a Wizar Trainer does not merely teach tools—they instill the rigor of Reality Before Narrative.
 
 ### 1. The Core Field Mandates for Wizar Trainers
  * Enforce Methodological Purity: Never allow students to substitute emotional reaction or personal bias for verifiable evidence. Every assertion made in the field must pass through the Triple Analytical Lens (Content, Context, and Cosmetics).
+   
  * Maintain Absolute Archival Integrity: Treat every data point, historical archive, and public footprint with clinical precision. Remind operatives and students alike that the digital ledger is permanent: actions, statements, and metadata left in the open public domain endure across years.
+   
  * Uphold Ethical Boundaries: Rigorously separate public intelligence collection from personal intrusion. Intelligence work in civil enlightenment nodes must serve transparency, structural awareness, and objective truth—never harassment or unverified speculation.
+   
 
-### 2. Final Field Ritual Blessing & Transmission
- * The Principle of Yathābhūta: Walk the field with the understanding that seeing things as they truly are requires quiet focus, systematic reflection (Yoniso Manasikāra), and unshakeable emotional balance (Upekkhā).
- * The Doctrine of Accountability: Teach the field that history is a self-recording mechanism. Those who document public actions create the baseline of truth; those who engage in reckless rhetoric author their own historical record.
+## 2. Final Field Ritual Blessing & Transmission
+
+### The Principle of Yathābhūta
+
+#### Walk the field with the understanding that seeing things as they truly are requires quiet focus, systematic reflection (Yoniso Manasikāra), and unshakeable emotional balance (Upekkhā).
+   
+### The Doctrine of Accountability
+
+#### Teach the field that history is a self-recording mechanism. Those who document public actions create the baseline of truth; those who engage in reckless rhetoric author their own historical record.
 
 ### Masterclass Trainer Final Knowledge Block (JSON)
 {
