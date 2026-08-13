@@ -225,4 +225,4 @@ In the field, a Wizar Trainer does not merely teach tools—they instill the rig
 }
 
 
-U Ingar Soe SSISM Sentinel Bamar Enlightenment Journal Executive Editor OSINT Myanmar/Burma Civil Enlightenment Nodes Civil Intelligence Education Specialist MIT Licensed Algorithm 2026.
+#### U Ingar Soe SSISM Sentinel Bamar Enlightenment Journal Executive Editor OSINT Myanmar/Burma Civil Enlightenment Nodes Civil Intelligence Education Specialist MIT Licensed Algorithm 2026.
