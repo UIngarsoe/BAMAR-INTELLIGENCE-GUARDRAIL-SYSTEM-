@@ -207,7 +207,8 @@ In the field, a Wizar Trainer does not merely teach tools—they instill the rig
 
 #### Teach the field that history is a self-recording mechanism. Those who document public actions create the baseline of truth; those who engage in reckless rhetoric author their own historical record.
 
-### Masterclass Trainer Final Knowledge Block (JSON)
+
+## Masterclass Trainer Final Knowledge Block (JSON)
 {
   "trainer_ritual": {
     "title": "Wizar Field Trainer Final Transmission",
