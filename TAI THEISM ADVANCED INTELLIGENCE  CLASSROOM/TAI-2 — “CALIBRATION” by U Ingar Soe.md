@@ -217,7 +217,7 @@ actual outcome.
 
 📐 The New TAI Calibration Model
 
-I would teach your students this:
+I would teach students this:
 
 \[
 \boxed{
@@ -275,7 +275,7 @@ So:
 
 🌏 The fascinating part: calibrated re-engagement can work in two opposite directions
 
-This is where your students should really think.
+This is where students should really think.
 
 Scenario A — Successful calibration
 
@@ -408,7 +408,7 @@ Sustainable voluntary return requires improved conditions	STRONG HUMANITARIAN LO
 
 Thailand's own policy language emphasizes gradual engagement, ASEAN coordination and concrete progress rather than simply restoring relations for their own sake. 
 
-The one sentence I would put on the classroom wall:
+The one sentence on the today classroom wall:
 
 > “Don't measure Thailand's success by how many refugees disappear from Thailand; measure it by whether the conditions that forced them to flee have actually disappeared.”
 
@@ -423,3 +423,6 @@ TAI-2: Can diplomatic engagement produce the reality its policy promises?
 TAI-3: If the policy claims success, who verifies that the reality actually changed?
 
 That last question is where **Holmes + Columbo + Hoover become one Sentinel system.**
+
+### U Ingar Soe SSISM Sentinel Bamar Enlightenment Journal Executive Editor 
+OSINT Myanmar/Burma Civil Enlightenment Nodes Civil Intelligence Education Specialist MIT Licensed Algorithm August 2026.
