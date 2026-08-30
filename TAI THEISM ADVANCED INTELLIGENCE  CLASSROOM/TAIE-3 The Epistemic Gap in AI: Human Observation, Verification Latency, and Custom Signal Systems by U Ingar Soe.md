@@ -1,4 +1,4 @@
-TAIE 2 THE ISM ADVANCED INTELLIGENCE TAI Education Masterclass 57
+TAIE 3 THE ISM ADVANCED INTELLIGENCE TAI Education Masterclass 57
 ## The Epistemic Gap in AI: Human Observation, Verification Latency, and Custom Signal Systems
 ### Author U Ingar Soe Bamar Enlightenment Journal 57
 
