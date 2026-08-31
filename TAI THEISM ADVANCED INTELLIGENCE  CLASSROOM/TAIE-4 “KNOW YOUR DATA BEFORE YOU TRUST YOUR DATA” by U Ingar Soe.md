@@ -1,14 +1,13 @@
-🛡️ SSISM INTEL SENTINEL
-
-THEISM ADVANCED INTELLIGENCE EDUCATION — TAIE-4
+SSISM INTEL SENTINEL
+## THEISM ADVANCED INTELLIGENCE EDUCATION — TAIE-4
 
 CLASSROOM 58 — AFTER TEA BREAK
 
-“KNOW YOUR DATA BEFORE YOU TRUST YOUR DATA”
+### “KNOW YOUR DATA BEFORE YOU TRUST YOUR DATA”
 
-Data ကို မယုံခင် Data ရဲ့သဘောသဘာဝကို သိပါ
+### Data ကို မယုံခင် Data ရဲ့သဘောသဘာဝကို သိပါ
 
-31 August 2026 · U Ingar Soe · SSISM Sentinel
+#### 31 August 2026 · U Ingar Soe · SSISM Sentinel
 
 
 ---
