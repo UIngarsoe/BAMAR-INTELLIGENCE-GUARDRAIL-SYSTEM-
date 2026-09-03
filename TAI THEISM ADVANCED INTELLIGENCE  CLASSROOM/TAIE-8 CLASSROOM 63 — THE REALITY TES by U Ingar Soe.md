@@ -11,7 +11,7 @@ THEISM ADVANCED INTELLIGENCE EDUCATION
 ##### "သတင်းရှိတာနဲ့ အမှန်တရားအပြည့်အစုံ ရပြီလို့ မဆိုလိုဘူး။ သက်သေ အ​ထောက်အထား ရှိသလောက်ပဲ ဆုံးဖြတ်ချက်ချကြမယ်။"
 
 ---
-# 🦚 SSISM INTEL — TAIE-8
+### 🦚 SSISM INTEL — TAIE-8
 **CLASSROOM 63 — THE REALITY TEST**  
 *How Far Can the Evidence Carry the Judgment?*
 **Author:** U Ingar Soe  
